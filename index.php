@@ -54,9 +54,7 @@
         el: '#app',
 
         data: () => ({
-            items: [
-                { title: 'First', price: 10,  }
-            ],
+            items: [],
             bag: [],
             loading: false,
         }),
